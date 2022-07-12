@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc41848e258f8cd4f9c600ace480cdcc, type: 3}
+  m_Name: SFXMapper
+  m_EditorClassIdentifier: 
+  tileClickSound: {fileID: 8300000, guid: 1e281aeeedebff84784931b3117fce7f, type: 3}
+  humanWinGameSound: {fileID: 8300000, guid: 356b7de14d2d1c741a2c8678b79f76f9, type: 3}
+  humanLoseGameSound: {fileID: 8300000, guid: ab722a03b329a79459f9558447b896c6, type: 3}
+  gameTieGameSound: {fileID: 8300000, guid: fab35f2e68ea6d44baf85c6b897e6d06, type: 3}
+  startGameSound: {fileID: 8300000, guid: e052acc5ba6eb5e4b96348d29ece824d, type: 3}
