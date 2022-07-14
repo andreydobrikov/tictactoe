@@ -3,10 +3,10 @@ A configurable version of Tic Tac Toe that uses common patterns like EventDispat
 
 # Instructions
 To Run TicTacToe simply open the TicTacToe scene and run in the Editor.<br>
-The scene will start with a simple menu to start the game.
+The scene will start with a simple menu to start the game.<br>
 <img width="961" alt="tictactoe1" src="https://user-images.githubusercontent.com/512300/178753734-bbee8712-cf83-4846-bba7-3b619b97b4d2.png">
 
-<br>After the game starts, it will take you to the board to play a game against the AI. After the game is finished, it will take you back to the start menu.
+<br>After the game starts, it will take you to the board to play a game against the AI. After the game is finished, it will take you back to the start menu.<br>
 <img width="926" alt="tictactoe2" src="https://user-images.githubusercontent.com/512300/178754070-ea3862e1-7db5-46dc-b73b-ed3a0d171742.png">
 
 # Details and Configuration
